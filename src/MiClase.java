@@ -4,19 +4,19 @@ public class MiClase
 	//devuelve la suma de a y b
 	static int sumarNumeros(int a, int b)
 	{
-		return -1;
+		return 5+6;
 	}
 	
 	//devuelve la resta de a y b
 	static int restarNumeros(int a, int b)
 	{
-		return -1;
+		return a-b;
 	}
 	
 	//devuelve la multiplicación de a y b
 	static int multiplicarNumeros(int a, int b)
 	{
-		return -1;
+		return a*b;
 	}
 	
 	//devuelve true si num es par, de lo contrario, devuelve false
@@ -63,6 +63,7 @@ public class MiClase
 	
 	public static void main(String args[])
 	{
-		
+		System.out.print("hola");
+	
 	}
 }
