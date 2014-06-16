@@ -4,7 +4,7 @@ public class MiClase
 	//devuelve la suma de a y b
 	static int sumarNumeros(int a, int b)
 	{
-		return 5+6;
+		return a+b;
 	}
 	
 	//devuelve la resta de a y b
@@ -22,7 +22,11 @@ public class MiClase
 	//devuelve true si num es par, de lo contrario, devuelve false
 	static boolean esPar(int num)
 	{
-		return false;
+	if num=(esPar);
+	return true;
+	else;
+	return false; 
+		
 	}
 	
 	//devuelve el numero mayor entre a, b o c
@@ -34,7 +38,7 @@ public class MiClase
 	//devuelve num elevado a la potencia
 	static int potencia(int num, int potencia)
 	{
-		return -1;
+		return-1;
 	}
 	
 	//devuelve el numero mayor del arreglo
